@@ -31,7 +31,6 @@
                              <div class="p-a30 bg-white clearfix m-b30">
                         <form method="post">
   <div class="form-group">
-    <label for="email">Email address:</label>
     <input type="text" name="term" class="form-control" id="email">
   </div>
 
