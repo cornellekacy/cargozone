@@ -14,9 +14,9 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="images/fav.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
     <link rel="shortcut icon" type="image/png" href="../assets/images/icon.png">
-    <title>Petfly Relocation | Admin | A nicer way to move your pet.</title>
+     <title>Cargo Zone Logistics | Admin Panel</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->

@@ -59,8 +59,8 @@ $password = mysqli_real_escape_string($link, $password);
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="logo.png">
-    <title>Petfly Relocation | Admin | A nicer way to move your pet.</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+    <title>Cargo Zone Logistics | Admin Panel</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
