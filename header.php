@@ -20,7 +20,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	
 	<!-- PAGE TITLE HERE -->
-	<title>CargoZone - Transport and Cargo Template </title>
+	<title>Cargo Zone Logistics - Home </title>
 	
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width">
@@ -81,7 +81,7 @@
                             <ul class="contact-info clearfix">
                             
                                     <h6 class="text-primary"><i class="fa fa-envelope-o"></i> Send us an Email</h6>
-                                    <span>cargozonelogistics@gmail.com</span> </li>
+                                    <span>cargozonelogistics12@gmail.com</span> </li>
                            
                             </ul>
                         </div>

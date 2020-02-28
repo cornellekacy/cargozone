@@ -183,7 +183,7 @@ EOT;
                                     <div class="icon-bx-xs bg-primary"> <a href="javascript:void(0);" class="icon-cell"><i class="fa fa-envelope"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-b0 dez-tilte">EMAIl</h6>
-                                        <p>cargozonelogistics@<br>gmail.com</p>
+                                        <p>cargozonelogistics12@<br>gmail.com</p>
                                     </div>
                                 </li>
                             </ul>

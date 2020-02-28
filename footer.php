@@ -35,7 +35,7 @@
                             <ul>
                                 <li><i class="fa fa-map-marker"></i><strong>address</strong> 3127  Doctors Drive, Los Angeles, California </li>
                                 
-                                <li><i class="fa fa-fax"></i><strong>EMAIL</strong>cargozonelogistics@gmail.com</li>
+                                <li><i class="fa fa-fax"></i><strong>EMAIL</strong>cargozonelogistics12@gmail.com</li>
                             </ul>
                         </div>
                     </div>
