@@ -22,10 +22,10 @@
 
 <div class="container">
     <div class="row">
-       <div class="col-2">
+       <div class="col-1">
            
        </div> 
-       <div class="col-8">
+       <div class="col-10">
               
                             <h3>Enter Your Tracking Number Here</h3>
                              <div class="p-a30 bg-white clearfix m-b30">
@@ -38,7 +38,7 @@
 </form>
                         
        </div> 
-       <div class="col-2">
+       <div class="col-1">
            
        </div> 
     </div>
