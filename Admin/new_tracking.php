@@ -100,7 +100,7 @@ else{
     $me = rand();
 // Attempt insert query execution
     $sql = "INSERT INTO track (jname,jadd,jcountry,jemail,jnumber,sname,sadd,scountry,semail,snumber, prod, mode, ship_date, ddate, currentl, pickupl, status,deliverys,cat,weight,items,descrip,ship_id) 
-    VALUES ('$jname','$jadd','$jcountry','$jemail','$jnumber','$sname','$sadd','$scountry','$semail','$snumber', '$prod', '$mode', '$ship_date', '$ddate', '$currentl', '$pickupl', '$status','$deliverys','$cat','$weight','$items','$descrip','P-$me')";
+    VALUES ('$jname','$jadd','$jcountry','$jemail','$jnumber','$sname','$sadd','$scountry','$semail','$snumber', '$prod', '$mode', '$ship_date', '$ddate', '$currentl', '$pickupl', '$status','$deliverys','$cat','$weight','$items','$descrip','CZ-$me')";
     if(mysqli_query($link, $sql)){
         echo "<div class='alert alert-success'>
         <strong>Success!</strong> Tracking Successfully Created.
