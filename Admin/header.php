@@ -74,6 +74,11 @@ session_start();
 
                         <!-- Profile -->
                         <li><a href="logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
+                         <li> <a  href="new_tracking.php" aria-expanded="false"><i class="fa fa-bar-chart"></i>New Tracking</a>
+                        </li>
+                        <li> <a  href="view_tracking.php" aria-expanded="false"><i class="fa fa-eye"></i>View Tracking</a>
+       
+                        </li>
              
                     </ul>
                 </div>
